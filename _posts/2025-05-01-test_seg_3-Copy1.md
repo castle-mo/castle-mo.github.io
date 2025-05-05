@@ -16,7 +16,7 @@ author_profile: false
       display: block;
       overflow: auto;
       font-family: Arial, sans-serif;
-      font-size: 0.6rem;
+      font-size: 0.9rem;
       line-height: 20px;
       text-align: center;
       border: 0px !important;
@@ -39,7 +39,7 @@ author_profile: false
 
     .output_prompt {
       overflow: auto;
-      font-size: 0.9rem;
+      font-size: 0.65rem !important;
       line-height: 1.45;
       border-radius: 0.3rem;
       -webkit-overflow-scrolling: touch;
