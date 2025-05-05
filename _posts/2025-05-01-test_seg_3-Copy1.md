@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[dacon] 신용카드 고객 세그먼트 분류 Ai 경진대회"
+title:  "[dacon] 신용카드 고객 세그먼트 분류 Ai 경진대회 [1,384 中 34]"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
