@@ -16,7 +16,7 @@ author_profile: false
       display: block;
       overflow: auto;
       font-family: Arial, sans-serif;
-      font-size: 0.9rem;
+      font-size: 0.6rem;
       line-height: 20px;
       text-align: center;
       border: 0px !important;
